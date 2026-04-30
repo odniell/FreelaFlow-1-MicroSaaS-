@@ -1,0 +1,26 @@
+{
+  "name": "freelaflow",
+  "version": "1.0.0",
+  "description": "Plataforma SaaS para freelancers organizarem clientes, projetos e cobranças",
+  "author": "FreelaFlow",
+  "license": "MIT",
+  "keywords": [
+    "freelancer",
+    "saas",
+    "gestão",
+    "clientes",
+    "cobrança",
+    "whatsapp",
+    "calculadora-precos"
+  ],
+  "scripts": {
+    "start": "npx serve public -p 3000",
+    "dev": "npx serve public -p 3000 --no-clipboard",
+    "preview": "npx serve public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SEU-USUARIO/freelaflow.git"
+  },
+  "homepage": "https://SEU-USUARIO.github.io/freelaflow"
+}
